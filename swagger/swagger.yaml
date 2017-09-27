@@ -190,7 +190,7 @@ info:
     email: mauro@hitback.us
     name: Mauro Delazeri
   description: Authentication API
-  title: The Freshworks Hitback
+  title: Hitback Auth
   version: ""
 paths:
   /account:

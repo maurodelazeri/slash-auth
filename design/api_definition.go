@@ -6,7 +6,7 @@ import (
 )
 
 var _ = API("Slash API", func() {
-	Title("The Freshworks Hitback")
+	Title("Hitback Auth")
 	Description("Authentication API")
 	Contact(func() {
 		Name("Mauro Delazeri")
